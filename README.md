@@ -84,3 +84,13 @@ You can find information on previous talks (and material) below:
    - Speaker: Josh Paik (University of St. Andrews)
         - title: 'Image Masking and Cell Segmentation'
         - talk material @ https://github.com/PuPPy-Python/Scientific_Computing/talk_materials
+
+
+## 19Jul18: Talks at Galvanize
+   - Speaker: Allison Pfeiffer (University of Washington)
+        - title: "Harnessing USGS online databases to understanding continent scale trends in gravel rivers"
+        - talk material @ 
+
+   - Speaker: Brad Chamberlain (Cray Inc.)
+        -  title: Chapel: "Programmability, Paraellelism, and Performance"
+        - talk material @ 
